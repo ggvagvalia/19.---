@@ -1,4 +1,4 @@
-# News App
+# News App 
 
 developed using UIKit. App displays list of news and detailed page for each news (realtime update).
 
